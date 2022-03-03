@@ -1,0 +1,16 @@
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.csprojAssemblyReference.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.AssemblyInfoInputs.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.AssemblyInfo.cs
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.csproj.CoreCompileInputs.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\SkynetPatternSwitch.exe
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\SkynetPatternSwitch.deps.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\SkynetPatternSwitch.runtimeconfig.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\SkynetPatternSwitch.runtimeconfig.dev.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\SkynetPatternSwitch.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\ref\SkynetPatternSwitch.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\bin\Debug\net5.0\SkynetPatternSwitch.pdb
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\ref\SkynetPatternSwitch.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.pdb
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\SkynetPatternSwitch\obj\Debug\net5.0\SkynetPatternSwitch.genruntimeconfig.cache
