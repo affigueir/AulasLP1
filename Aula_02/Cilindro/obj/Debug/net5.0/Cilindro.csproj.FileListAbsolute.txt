@@ -1,0 +1,16 @@
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.csprojAssemblyReference.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.AssemblyInfoInputs.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.AssemblyInfo.cs
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\Cilindro.exe
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\Cilindro.deps.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\Cilindro.runtimeconfig.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\Cilindro.runtimeconfig.dev.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\Cilindro.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\ref\Cilindro.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\bin\Debug\net5.0\Cilindro.pdb
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\ref\Cilindro.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.pdb
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\Cilindro\obj\Debug\net5.0\Cilindro.genruntimeconfig.cache
