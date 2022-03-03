@@ -1,0 +1,16 @@
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\IncDec.exe
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\IncDec.deps.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\IncDec.runtimeconfig.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\IncDec.runtimeconfig.dev.json
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\IncDec.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\ref\IncDec.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\bin\Debug\net5.0\IncDec.pdb
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.csprojAssemblyReference.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.AssemblyInfoInputs.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.AssemblyInfo.cs
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.csproj.CoreCompileInputs.cache
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\ref\IncDec.dll
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.pdb
+C:\Users\affig\Desktop\ExerciciosLp1\Aula_02\IncDec\obj\Debug\net5.0\IncDec.genruntimeconfig.cache
