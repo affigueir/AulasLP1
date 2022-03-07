@@ -6,10 +6,10 @@ namespace Argumentos
     {
         static void Main(string[] args)
         {
+            int b = 1;
             foreach (string a in args)
             {
-                //int b = 1;
-                Console.WriteLine($"Argument is {a}.");
+                Console.WriteLine($"Argument {b++} is {a}.");
             }
         }
     }
