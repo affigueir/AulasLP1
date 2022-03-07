@@ -6,7 +6,11 @@ namespace Argumentos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            foreach (string a in args)
+            {
+                //int b = 1;
+                Console.WriteLine($"Argument is {a}.");
+            }
         }
     }
 }
