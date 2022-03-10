@@ -7,23 +7,32 @@ namespace ArrayBiDim
         static void Main(string[] args)
         {
             Console.Write("Insert array's horizontal dimension: ");
-            int i = int.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine());
 
             Console.Write("Insert array's vertical dimension: ");
-            int j = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
 
-            float [,] arrayBiDim = new float [i,j];
+            float [,] arrayBiDim = new float [a,b];
 
-            for (int a = 0; a < i; a++)
+            for (int i = 0; i < a; i++)
             {
-                for (int b = 0; b < j; b++)
+                for (int j = 0; j < b; j++)
                 {
-                    Console.WriteLine($"Insert a value for position [{a},{b}]:");
-                    arrayBiDim[a,b] = Single.Parse(Console.ReadLine());
+                    Console.WriteLine($"Insert a value for position [{i},{j}]:");
+                    arrayBiDim[i,j] = Single.Parse(Console.ReadLine());
                 }
             }
             
-
+            for (int i = 0; i < a; i++)
+            {
+                float average = 0;
+                for (int j = 0; j < b; j++)
+                {
+                    average += arrayBiDim[i,j];
+                }
+                average /= b;
+                Console.WriteLine($"Line {i} average is {average}");
+            }
         }
     }
 }
